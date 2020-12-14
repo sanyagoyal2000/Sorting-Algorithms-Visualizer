@@ -8,7 +8,7 @@ A web app in react to visualize various sorting algorithms.The following algorit
 6.Merge Sort
 7.Shell Sort
 8.Quick Sort
-9.Quick Sort wit 3 way partitioning
+9.Quick Sort with 3 way partitioning
 
 Link to the app
 https://sanyagoyal2000.github.io/Sorting-Algorithms-Visualizer/
