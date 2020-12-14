@@ -15,7 +15,8 @@ https://sanyagoyal2000.github.io/Sorting-Algorithms-Visualizer/
 
 DEMO
 ![](ss/1.png)
-![](ss/5.png)
+
 ![](ss/2.png)
 ![](ss/3.png)
 ![](ss/4.png)
+![](ss/5.png)
