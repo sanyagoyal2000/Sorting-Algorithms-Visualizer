@@ -52,8 +52,7 @@ const CocktailSort = (nums) => {
  
        
         ++start;
-   
-addToTrace(trace, nums, [...Array(nums.length).keys()]);
+      addToTrace(trace, nums, [...Array(nums.length).keys()]);
 }
 
   return trace;
