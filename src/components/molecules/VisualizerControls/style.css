@@ -21,14 +21,18 @@
 
 .VisualizerControls__CenterButton:disabled {
   background-color: var(--gray-500);
+  text-align: center;
 }
 
 .VisualizerControls__Button {
   padding: 0 12px;
+  
 }
 
 .VisualizerControls__SpeedButton {
   padding-right: 12px;
+  background-color: var(--gray-500);
+  border-radius: 50%;
 }
 
 .VisualizerControls__Icon {

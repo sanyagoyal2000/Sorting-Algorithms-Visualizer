@@ -7,11 +7,13 @@
   --button-outlined-border-width: 1px;
 
   /* Typography */
-  font-size: 0.875rem;
+  font-size: 1.0rem;
   line-height: 2.25rem;
   font-weight: 500;
   text-decoration: none;
-  color: var(--text-color);
+  
+  
+  font-family:'Merriweather Sans';
 
   padding: 0 var(--button-horizontal-padding);
   background-color: rgba(0, 0, 0, 0);
@@ -33,7 +35,11 @@
   overflow: hidden;
   vertical-align: middle;
 }
-
+.Button__Label{
+  
+  color:white;
+  
+}
 .Button:active {
   outline: none;
 }
@@ -57,13 +63,10 @@
   vertical-align: top;
 }
 
-.Button__Label {
-}
+
 
 /* Modifiers */
-.Button_uppercase {
-  text-transform: uppercase;
-}
+
 
 .Button_dense {
   height: var(--button-height-dense);
