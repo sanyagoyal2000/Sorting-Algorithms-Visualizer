@@ -21,7 +21,7 @@
 
 .SortInfo__Article {
   padding-left: 5ch;
-  width: 55ch;
+  width: 65ch;
   line-height: 1.3;
   background-color:#eff5f5;
   color:#4f7d7d;
@@ -71,7 +71,7 @@
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .SortInfo__Article {
-    width: 65ch;
+    width: 55ch;
     padding-right: 5ch;
   }
 
