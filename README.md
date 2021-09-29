@@ -20,7 +20,7 @@ A web app in react to visualize various sorting algorithms.The following algorit
 9.Quick Sort with 3 way partitioning
 
 Link to the app
-https://sanyagoyal2000.github.io/Sorting-Algorithms-Visualizer/
+https://sorting-algorithms-visualizer-sanyagoyal2000.vercel.app/
 
 DEMO
 ![](ss/1.png)
